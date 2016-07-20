@@ -1,0 +1,8 @@
+[package]
+name = "sr2_resolution_changer"
+version = "0.1.0"
+authors = ["vovin"]
+
+[dependencies]
+argparse = "*"
+byteorder = "*"
